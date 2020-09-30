@@ -1,6 +1,6 @@
 #include<stdio.h> 
  
-int main() 
+int main()  //main function
 { 
       int i, n, t = 0, x, count = 0, quantum,j; 
       
